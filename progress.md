@@ -16,7 +16,7 @@
 # 3 модуль 24
 - [X] Canonic
 - [X] VisMealy
-- [] LangMealy
+- [X] LangMealy
 - [X] MinMealy
 - [X] EqMealy
 - [X] Mealy2Moore
